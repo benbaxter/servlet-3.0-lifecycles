@@ -1,0 +1,13 @@
+#eclipse files
+.classpath
+.project
+
+.idea
+*.iml
+
+.settings/
+bin/
+
+build/
+
+.gradle/
